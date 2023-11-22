@@ -1,0 +1,14 @@
+margin paddin
+
+
+1 valor es para todos los lados del elementos ej: margin: 20px
+2  valores sera representativo de cada eje Y X por ej: margin: 20px 40px
+3  valores en x sera igual para ambos lados por ej: margin: 20px 30px 100px;
+4  valores cada valor es representado en una posicion: margin: 20px 0 10px 50px;
+
+
+margin-left: 0px
+margin-top: 
+margin-bottom:
+
+margin: 20px;
